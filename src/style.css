@@ -1,0 +1,326 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: white;
+}
+
+/* ...........header........... */
+.hot {
+    width: 25% !important;
+    font-family: Open Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-size: 13px !important;
+    border-radius: 50px;
+    color: white;
+    padding: 0px !important;
+    background-color: #D23F57;
+    font-style: bold !important;
+    text-align: center;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f6f9fc !important;
+    color: black !important;
+    font-size: 13px !important;
+    height: 9% !important;
+    padding: 7px 16px !important;
+    border-radius: 0px 26px 26px 0px !important;
+    margin-left: 37px !important;
+
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 13px !important;
+    height: 5% !important;
+
+
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    height: 80% !important;
+    border-radius: 31px !important;
+    width: 200% !important;
+}
+
+.fiplus_icon {
+    border: 1px solid #D23F57;
+    width: 13%;
+    height: 2%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+
+
+}
+
+.fiplus_icon1 {
+    border: 1px solid #D23F57;
+    width: 7%;
+    height: 2%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.fiminus11_icon {
+    border: 1px solid #D23F57;
+    width: 65%;
+    height: -20%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin: 0 auto !important;
+}
+
+.fiplus11_icon {
+    border: 1px solid #D23F57;
+    width: 60%;
+    height: -10%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin: 0 auto !important;
+}
+
+.fiplus12_icon {
+    border: 1px solid #D23F57;
+    width: 60% !important;
+    height: -20%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin: 0 auto !important;
+    /* margin-top: 60px !important; */
+
+}
+
+.fiminus_icon {
+    border: 1px solid #D23F57;
+    width: 7%;
+    height: 2%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.fiminus_icon11 {
+    border: 1px solid #D23F57;
+    width: 55%;
+    height: 2%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.fiplus_icon11 {
+    border: 1px solid #D23F57;
+    width: 55%;
+    height: 2%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.singleplus {
+    border: 1px solid #D23F57;
+    width: 3%;
+    height: 2% !important;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin-top: 50px !important;
+    position: absolute;
+    top: 0px !important;
+    left: -46px !important;
+    padding: 12px;
+    margin: 0 auto;
+}
+.plusposi
+{
+    position: absolute;
+    top: 5px !important;
+    left: 5px !important;
+}
+.fiplus {
+    border: 1px solid #D23F57;
+    width: 60% !important;
+    height: -20%;
+    color: #D23F57;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin: 0 auto !important;
+    margin-top: 60px !important;
+}
+
+.count_icon {
+    /* border: 1px solid black; */
+
+    width: 35px !important;
+
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    font-size: 15px !important;
+    font-weight: bold;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.count_icon1 {
+    /* border: 1px solid black; */
+
+    width: 35px !important;
+
+    text-align: left;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 5px;
+    font-size: 15px !important;
+    font-weight: bold;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.positionset {
+    /* border: 1px solid green !important; */
+    width: 80%;
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    /* display: none !important; */
+
+}
+
+.off {
+    /* border: 1px solid red; */
+    font-size: 10px !important;
+    width: 20%;
+    background-color: #D23F57;
+    color: white;
+    border-radius: 10px;
+    padding: 2px;
+
+}
+
+.charge_icon {
+    color: #D23F57 !important;
+    padding-right: 10px !important;
+    font-size: 20px !important;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.opt_btn1 {
+
+    background-color: #D23F57 !important;
+    color: white !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    font-size: 10px !important;
+    font-variant: normal !important;
+}
+
+.opt_btn2 {
+    background-color: #e3e6e8 !important;
+    color: #2b3445 !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    font-size: 10px !important;
+    font-variant: normal !important;
+}
+
+.cart_btn1 {
+    margin-top: 42px !important;
+    width: 30%;
+    background-color: #D23F57 !important;
+    color: white !important;
+    margin-left: 13px !important;
+    margin-right: 10px !important;
+    font-size: 0.8rem !important;
+    font-feature-settings: normal !important;
+    font-variant: normal !important;
+}
+
+.cart_btn_display {
+    position: relative;
+    top: -36px !important;
+    left: -53px !important;
+    margin-top: 5px !important;
+    width: 475%;
+    /* height: 174%; */
+    background-color: #D23F57 !important;
+    color: white !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    font-size: 0.8rem !important;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-feature-settings: normal !important;
+    font-variant: normal !important;
+    margin-bottom: 50px !important;
+}
+
+.cardimg img {
+    margin-top: 10px !important;
+}
+
+.add_cart {
+    margin-left: 50% !important;
+    background-color: #D23F57;
+    color: white;
+    border-radius: 50px;
+    width: 60%;
+}
+
+/* .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+   
+    position: relative;
+    top: -32px !important;
+    left: -53px !important;
+    box-sizing: border-box;
+  
+   
+    min-width: 126px !important;
+  
+    margin-left: 10px !important;
+} */
+/* .hidde{
+    display:none
+} */
+
+.posi {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px solid red;
+    width: 30px;
+    margin: 0 auto;
+}
